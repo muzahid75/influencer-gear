@@ -1,0 +1,36 @@
+
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.third-font-size{
+    font-size: 28px;
+}
+.forth-font-size{
+    font-size: 24px;
+}
+.fifth-font-size{
+    font-size: 14px;
+}
+.bold{
+    font-weight: 700;
+}
+.margin-top{
+    margin-top: 15px;
+}
+/* footer sectiion  */
+.footer{
+    background-color: #0a0826;
+    padding: 50px;
+    color: white;
+    text-align: center;
+}
+.footer-icon img{
+    text-decoration: none;
+    margin-right: 15px;
+}
+.footer-icon img:last-child{
+    margin: 0px;
+}
